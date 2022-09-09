@@ -4,3 +4,4 @@ A simple one page website created to help complete beginners learn HTML basics, 
 [Run the example live](http://mdn.github.io/beginner-html-site-styled/).Adding New Content
 
 This is the demo of the git calss 
+Going to the git class for the commit 
